@@ -1,1 +1,1 @@
-gkey = "AIzaSyAHYKki-XHNhkfvOO_bnIU2873WL7jheao"
+gkey = "YOUR KEY!"
